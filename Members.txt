@@ -1,9 +1,12 @@
 List of members in Team 110
 
-Jorja
+Jorja;
 
-Jason
+Jason;
 
-Dheeraj
+Dheeraj;
 
-Lachlan
+Lachlan;
+
+++++++++
+Group 110:
